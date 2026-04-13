@@ -21,11 +21,10 @@ I'm a passionate Software Engineer focused on building modern, responsive, and u
 
 <div align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/evansmuthomi/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" />
+   
   </a>
   <a href="https://twitter.com/https://x.com/_Muthomi_">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" />
-  </a>
+   </a>
 </div>
 
 ---
